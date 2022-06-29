@@ -8,7 +8,7 @@ Source of image: https://www.news18.com/
 Given the current worldwide issues, increasing inflation rates, and growing uncertainties regarding the value of cryptocurrencies, I thought I'd take a look at the twitter activities and sentiment of tweets posted in regards to Bitcoin. For this purpose, I have decided to analyze the tweets posted from around the beginning of the year, and see how users' confidence in the cryptocurrency is evolving.
 
 
-For the purpose of this project, I have analyzed the dataset of bitcoin-related tweets that is available on Kaggle and analyzed its relationship to the USD price of Bitcoin in the past 5 months.
+For the purpose of this project, I have analyzed the dataset of bitcoin-related tweets that is available on Kaggle and analyzed its relationship to the USD price of Bitcoin in the recent months.
 
 
 
